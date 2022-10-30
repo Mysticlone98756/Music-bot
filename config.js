@@ -1,6 +1,6 @@
 module.exports = {
     app: {
-        token: TOKEN,
+        token: ,
         playing: 'personal bot for personal reasons',
         global: true,
         guild: '1032091051604856854'
