@@ -1,3 +1,4 @@
+const keep_alive = require('./keep_alive.js')
 const { Player } = require('discord-player');
 const { Client, GatewayIntentBits } = require('discord.js');
 
