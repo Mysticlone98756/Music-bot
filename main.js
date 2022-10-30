@@ -1,4 +1,3 @@
-const { TOKEN } = require('./config.json')
 const { Player } = require('discord-player');
 const { Client, GatewayIntentBits } = require('discord.js');
 
