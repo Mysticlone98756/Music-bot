@@ -1,15 +1,15 @@
 module.exports = {
     app: {
-        token: '',
-        playing: 'by Zerio ❤️',
+        token: TOKEN,
+        playing: 'personal bot for personal reasons',
         global: true,
-        guild: 'XXX'
+        guild: '1032091051604856854'
     },
 
     opt: {
         DJ: {
             enabled: false,
-            roleName: '',
+            roleName: '1032091051604856854',
             commands: []
         },
         maxVol: 100,
